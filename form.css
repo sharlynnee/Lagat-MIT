@@ -1,0 +1,55 @@
+form{
+    background-color: rgba(24, 224, 224, 0.86);
+    width: 50%;
+    margin: auto;
+    border-radius: 6px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+
+}
+input[type=text],input[type=date]{
+    width: 30%;
+    padding: 12px 20px;
+}
+h1{
+    text-align: center;
+}
+.B1{
+    background-color: blue;
+    margin-left: 50px;
+}
+.T1{
+    margin-left: 50px;
+}
+.D1{
+    margin-left: 76px;
+}
+textarea{
+    margin-left: 61px;
+    width: 37%;
+}
+.T2{
+    margin-left: 64px;
+}
+.D2{
+    margin-left: 79px;
+}
+.R1{
+    margin-left: 90px;
+}
+.B2{
+    background-color: blueviolet;
+    margin-left: 65px;
+}
+button{
+    width: 30%;
+    height: 50px;
+}
+select{
+    width: 37%;
+    margin-left: 65px;
+    height: 45px;
+}
+
+

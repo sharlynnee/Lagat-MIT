@@ -1,0 +1,64 @@
+form{
+    background-color: #573232;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 50px;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+body{
+    background-color: #700000;
+}
+button{
+    margin-left: 50px;
+    width: 45%;
+    height: 40px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+input[type=text],[type=password],[type=email]{
+    width: 26%;
+    height: 40px;
+    padding-left: 20px;
+    float: initial;
+}
+
+textarea{
+    width: 28%;
+    margin-left: 100px;
+}
+label{
+    color: white;
+}
+p{
+    color: white;
+}
+.t1{
+    margin-left: 110px;
+}
+.p1{
+    margin-left: 78px;
+}
+input[type=email]{
+    margin-left: 110px;
+}
+.t2{
+    margin-left: 33px;
+}
+.t3{
+    margin-left: 74px;
+}
+.p2{
+    margin-left: 85px;
+}
+.l1{
+    margin-left: 90px;
+}
+select{
+    margin-left: 76px;
+    width: 28%;
+    height: 40px;
+}
+
+
